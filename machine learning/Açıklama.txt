@@ -1,0 +1,1 @@
+EKlenmiş csv dosyalarıyla birlikte temel machine learning operasyonları
